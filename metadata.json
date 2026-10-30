@@ -1,0 +1,6 @@
+{
+  "name": "AppForge Mobile",
+  "description": "Mobile Android App Builder with visual editor, cloud builds, JS logic, version control, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
